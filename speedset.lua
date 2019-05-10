@@ -1,0 +1,1 @@
+client.speedmode(1500)
